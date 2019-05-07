@@ -1,0 +1,7 @@
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\obj\Debug\Pewarisan.csprojAssemblyReference.cache
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\obj\Debug\Pewarisan.csproj.CoreCompileInputs.cache
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\bin\Debug\Pewarisan.exe.config
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\bin\Debug\Pewarisan.exe
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\bin\Debug\Pewarisan.pdb
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\obj\Debug\Pewarisan.exe
+D:\18.11.2372\Pewarisan\Pewarisan\Pewarisan\obj\Debug\Pewarisan.pdb
